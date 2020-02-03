@@ -1,2 +1,0 @@
-# CourseHero
-Created with CodeSandbox
